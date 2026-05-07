@@ -2,7 +2,7 @@
 
 [![Paper](https://img.shields.io/badge/Paper-CVPR_2026-blue)]([#](https://github.com/ROC-Star/TFOVCOS/releases/download/paper/Camera-ready.pdf))
 [![Code](https://img.shields.io/badge/Code-Release-success)](#)
-
+ 
 > This is the official implementation for the **CVPR 2026** paper:  
 > **Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt** 
 
