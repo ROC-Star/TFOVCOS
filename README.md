@@ -47,7 +47,7 @@ python main.py --config ./configs/ovcoser.py --model-name TFOVCoser --evaluate
 ```
 
 ## 🏆 Results
-Download our [results](https://github.com/ROC-Star/TFOVCOS/releases/tag/models-results) and unzip it.
+Download our [results](https://github.com/ROC-Star/TFOVCOS/releases/download/model-results/pre.zip) and unzip it.
 
 Run the script: ``` python evaluate.py --pre <path>/results ```
 
