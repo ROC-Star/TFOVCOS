@@ -1,0 +1,9 @@
+[
+{
+        "unique_id": "000074_heron",
+        "base_class": "heron",
+        "image": "COD10K_TRAIN_DIR/Imgs/COD10K-CAM-3-Flying-60-Heron-3926.jpg",
+        "mask": "COD10K_TRAIN_DIR/GT/COD10K-CAM-3-Flying-60-Heron-3926.png",
+        "id": 74
+    }
+]

@@ -1,0 +1,8 @@
+OVCamo_TR_IMAGE_DIR: '/home/renpeng/OVCamo_Datasets/OVCamo_Train/image/'
+OVCamo_TR_MASK_DIR: '/home/renpeng/OVCamo_Datasets/OVCamo_Train/mask/'
+OVCamo_TR_DEPTH_DIR: '/home/renpeng/OVCamo_Datasets/OVCamo_Train/depth/'
+OVCamo_TE_IMAGE_DIR: '/home/renpeng/OVCamo_Datasets/OVCamo_Test/image/'
+OVCamo_TE_MASK_DIR: '/home/renpeng/OVCamo_Datasets/OVCamo_Test/mask/'
+OVCamo_CLASS_JSON_PATH: './env/class_info.json'
+OVCamo_SAMPLE_JSON_PATH: './env/sample_info.json'
+OVCamo_CLASS_DESC_PATH: './env/all_foreback_descriptions1.json'
