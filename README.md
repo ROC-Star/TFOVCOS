@@ -6,7 +6,6 @@
 > This is the official implementation for the **CVPR 2026** paper:  
 > **Training-Free Open-Vocabulary Camouflaged Object Segmentation via Fine-Grained Object Binding and Adaptive Hybrid Prompt** 
 
-> *Peng Ren, Cheng Jiang, Chuande Yang, Fuming Sun, Tian Bai* 
 
 ## 📝 Abstract
 
